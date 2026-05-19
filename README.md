@@ -14,5 +14,14 @@ python -m pip install pillow
 ```
 python -m pip install opencv-python
 ```
-</br>
  다음 라이브러리들을 설치해 주셔야 원활한 사용이 가능합니다.
+</br>
+</br>
+
+```
+FPS = 2
+
+GIF_FRAME_DURATION_MS = 500
+````
+
+부분을 수정하여서 바뀐 mp4 나 gif 의 jpg 가 바뀌는 속도를 지정할 수 있습니다.
