@@ -46,9 +46,23 @@ GIF_FRAME_DURATION_MS = 500
 
 이 .py 프로그램을 실행 시키신 뒤 <code>.jpg</code> 파일이 위치한 경로로 이동하십시오.  
 </br>
+<img src="https://github.com/peropero1111/jpg_to_gif_or_mp4_converter/blob/main/img/2026-09-15%20182413.png?raw=true" width="450" height="450"/> 
+
+</br>
+</br>
 그 다음 <code>.jpg</code> 파일을 고른 후 <code>.gif / .mp4</code> 중 원하는 형식을 고르십시오.    
 </br>
+</br>
+<img src="https://github.com/peropero1111/jpg_to_gif_or_mp4_converter/blob/main/img/2026-09-15%20182559.png?raw=true" width="350" height="350"/><img src="https://github.com/peropero1111/jpg_to_gif_or_mp4_converter/blob/main/img/2026-09-15%20182451.png?raw=true" width="250" height="250"/> 
+
+
+
+</br>
+</br>
 <code>.gif / .mp4</code> 파일이 출력될 폴더를 고르면 그 폴더에 선택한 파일이 출력됩니다.  
+<br>
+<br>
+<img src="https://github.com/peropero1111/jpg_to_gif_or_mp4_converter/blob/main/img/2026-09-15%20183422.png?raw=true" width="450" height="450"/> 
 
 </br>
 아래에 자세한 사용방법 영상이 첨부 되어 있습니다.
