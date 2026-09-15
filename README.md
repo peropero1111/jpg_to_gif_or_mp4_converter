@@ -19,7 +19,7 @@ jpg 의 이미지를 gif 나 mp4 영상으로 변환할수 있게하는 .py 코�
 사용하시기 전에 
 
 ```python
-python -m pip install pillow opencv-python numpy
+python -m pip install numpy
 
 python -m pip install pillow
 
