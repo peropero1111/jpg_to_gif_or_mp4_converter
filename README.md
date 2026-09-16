@@ -15,6 +15,12 @@ jpg 의 이미지를 gif 나 mp4 영상으로 변환할수 있게하는 .py 코�
 - NumPy — OpenCV 이미지 처리
 
 - - -
+### 목차 
+1. [사용하기 전](#사용하기-전)
+2. [사용법](#사용법)
+3. [기타 기능](#기타-기능)
+- - -
+## 사용하기 전
 
 사용하시기 전에 
 
@@ -27,21 +33,9 @@ python -m pip install opencv-python
 ```
  다음 라이브러리들을 설치해 주셔야 사용이 가능합니다.
  
-</br>
-</br>
 
-- - -
-
-```python
-FPS = 2
-
-GIF_FRAME_DURATION_MS = 500
-````
-
-이 부분을 수정하여서 바뀐 mp4 나 gif 의 jpg 가 바뀌는 속도를 지정할 수 있습니다.
-
-- - -
-</br>
+---
+## 사용법
 </br>
 
 이 .py 프로그램을 실행 시키신 뒤 <code>.jpg</code> 파일이 위치한 경로로 이동하십시오.  
@@ -70,6 +64,17 @@ GIF_FRAME_DURATION_MS = 500
 </br>
 
 https://github.com/user-attachments/assets/a4021817-6f87-4afe-96cc-9136f6f751dc
+
+- - -
+## 기타 기능
+
+```python
+FPS = 2
+
+GIF_FRAME_DURATION_MS = 500
+````
+
+이 부분을 수정하여서 바뀐 mp4 나 gif 의 jpg 가 바뀌는 속도를 지정할 수 있습니다.
 
 - - -
 
