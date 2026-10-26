@@ -21,8 +21,10 @@ jpg 의 이미지를 gif 나 mp4 영상으로 변환할수 있게하는 .py 코�
 3. [기타 기능](#기타-기능)
 - - -
 ## 사용하기 전
-
-사용하시기 전에 
+[releases](https://github.com/peropero1111/jpg_to_gif_or_mp4_converter/releases/tag/v1.0.0) 에서 converter.py 를 다운받으십시오.
+<br>
+<br>
+정상적인 사용을 위해
 
 ```python
 python -m pip install numpy
@@ -31,7 +33,7 @@ python -m pip install pillow
 
 python -m pip install opencv-python
 ```
- 다음 라이브러리들을 설치해 주셔야 사용이 가능합니다.
+ 다음 라이브러리들을 설치해 주셔야 정상적인 사용이 가능합니다.
  
 
 ---
